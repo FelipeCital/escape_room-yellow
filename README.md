@@ -14,7 +14,7 @@ Read the game narratives and technical requirements carefully. Plan how you will
 
 ### Game Map
 
-![Game Map](escape-room-plan-updated.jpg)
+![Game Map](escape-room-plan-updated.jpeg)
 
 This map has been updated in the presentation. 
 
